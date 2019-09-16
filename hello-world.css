@@ -11,4 +11,40 @@ table {font-family: arial, sans-serif;
 }
 
 tr:nth-child(even) {
+  background-color: violet;
+}
+
+tr:nth-child(odd) {
+  background-color: teal;
+  }
+
+ul {
+  color: blue;
+  background: teal;
+  padding: 20px;
+  display:table;
+  margin: 0 auto;
+}
+
+body {
+  background: indigo;
+}
+
+h1 {
+  color: #39ff14;
+  text-align: center;
+}
+
+h2 {
+  color: #39ff14;
+  text-align: center;
+}
+blockquote{
+  color: #39ff14;
+}
+
+form{
+  width: 40%;
+  margin: 0 auto;
+  height: 400px;
 }
